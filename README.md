@@ -600,7 +600,7 @@ The security of local runtime data also depends on the security of the operating
 
 SecureVault is built with:
 
-* Python
+* `Python`
 * `cryptography`
 * `hashlib`
 * `secrets`
@@ -610,11 +610,11 @@ SecureVault is built with:
 * `logging`
 * `argparse`
 * `pytest`
-* Black
-* Flake8
-* pip-audit
-* Git
-* GitHub Actions
+* `Black`
+* `Flake8`
+* `pip-audit`
+* `Git`
+* `GitHub Actions`
 
 ## Project Status
 
@@ -699,6 +699,6 @@ Refer to the repository license file for the applicable usage and distribution t
 
 ## Author
 
-Rohith Pujari
+Rohit Pujari
 
 SecureVault was developed as a Python password management project focused on modular application design, encrypted local storage, authentication, testing, and security-conscious development.
