@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "SecureVault-v1.0.0"
+name = "SecureVault"
 version = "1.0.0"
 description = "A secure command-line password manager built with Python."
 readme = "README.md"
